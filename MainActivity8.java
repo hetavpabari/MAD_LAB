@@ -13,7 +13,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity8 extends AppCompatActivity {
     EditText e1;
     Button read, write, clear;
     private String filename = "SampleFile.txt";
